@@ -38,11 +38,11 @@ The tentative calendar for the upcoming year:\s
 January/February/March: Training with Lorient Grand Large, attending electronics, meteorology, nutrition and sleep management courses\s
 **April 14th**: Plastimo Lorient Mini, 115 nm\s
 **April 25th**: Pornichet Select, 300 nm\s
-**May 7th**: Mini en Mai, 500 nm\s
-**June 6th**: Trophée MAP, 220 nm\s
-**June 16th**: Mini Fastnet, 600 nm\s
-**End of June, July**: 1000 nm solo qualification\s
-**July 24th**: Transgascogne, 600 nm\s
+**May 7th**: Mini en Mai, 500 nm \s
+**June 6th**: Trophée MAP, 220 nm \s
+**June 16th**: Mini Fastnet, 600 nm \s
+**End of June, July**: 1000 nm solo qualification \s
+**July 24th**: Transgascogne, 600 nm \s
 
 
 
