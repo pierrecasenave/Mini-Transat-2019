@@ -37,7 +37,7 @@ The profile of the Mini sailors varies widely. There is a mix of passionate amat
 After applying for a derogation and getting a positive reply, I decided to take a year off to train in Lorient, France and attempt to qualify for the 2019 Mini-Transat. This project is big challenge and being on the starting line would already be an accomplishment.
 The tentative calendar for the upcoming year:
 January/February/March: Training with Lorient Grand Large, attending electronics, meteorology, nutrition and sleep management courses 
-**April 14th**: Plastimo Lorient Mini, 115 nm
+**April 14th**: Plastimo Lorient Mini, 115 nm\
 **April 25th**: Pornichet Select, 300 nm
 **May 7th**: Mini en Mai, 500 nm
 **June 6th**: Trophée MAP, 220 nm
