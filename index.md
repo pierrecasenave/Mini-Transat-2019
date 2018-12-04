@@ -1,6 +1,6 @@
 ## What I will be up to in 2019
 
-Starting in January, I will be training in France to race in the Mini-Transat! Read through if you want to learn more about the race!
+Starting in January, I will be training in France to race in the Mini-Transat! I made this crappy website for the time being so my friends can have an idea of what I'll be up to. Read through if you want to learn more about the race!
 
 
 ### The Race
@@ -15,7 +15,7 @@ The transatlantic race is the last event of the Classe Mini circuit, which compr
 
 ### Derogation for Foreign Sailors
 
-The two years between each edition allow sailors to meet the qualification requirements during the first year and to continue to train during the second year. Thankfully, competitors who live outside of Europe can apply for a derogation (6 available for each edition). If accepted, a spot is held, letting them time to qualify in a single year without worrying about waitlist.
+The two years between each edition allow sailors to meet the qualification requirements during the first year and to continue to train during the second year. Thankfully, competitors who live outside of Europe can apply for a derogation (6 available for each edition). If accepted, a spot is held, giving them time to qualify in a single year without worrying about waitlist.
 
 ### The Boats
 The ranking is divided into two categories of boats: series and prototypes. Series boats have very strict design rules focused on reducing the production and maintenance costs in an effort to make racing accessible. They are comparable to one-design classes. Prototypes boat have more conception freedom: they are typically built from lighter materials like carbon fiber, have more powerful rigs and a deeper draft. The common denominator between the two categories is the length of the boat: 6.5 meters, or 21 feet.
@@ -26,7 +26,8 @@ The profile of the Mini sailors varies widely. There is a mix of passionate amat
 
 ### Further Readings on the Transat
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mini_Transat_6.50)\
+[Wikipedia](https://en.wikipedia.org/wiki/Mini_Transat_6.50)
+\
 [Classe Mini Website](https://www.classemini.com/?mode=presentation)
 
 
