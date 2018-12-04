@@ -47,5 +47,5 @@ January/February/March: Training with Lorient Grand Large, attending electronics
 
 #### A few pictures of my boat!
 ![Image](IMG_7061.JPG)
-![Image2](https://github.com/pierrecasenave/pictures/blob/master/IMG_7266.JPG)
-![Image3](https://github.com/pierrecasenave/pictures/blob/master/IMG_7389.JPG)
+![Image2](IMG_7266.JPG)
+![Image3](IMG_7389.JPG)
