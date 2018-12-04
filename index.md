@@ -44,6 +44,8 @@ The tentative calendar for the upcoming year:
 **End of June, July**: 1000 nm solo qualification  
 **July 24th**: Transgascogne, 600 nm 
 
+[**September 22nd: Mini Transat**]
+
 
 
 #### A few pictures of my boat!
