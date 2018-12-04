@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## What I will be up to in 2019
 
 You can use the [editor on GitHub](https://github.com/pierrecasenave/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### The Race
 
@@ -29,11 +26,25 @@ The ranking is divided into two categories of boats: series and prototypes. Seri
 
 The profile of the Mini sailors varies widely. There is a mix of passionate amateurs realizing a lifelong dream and of professional sailors showcasing their skills to move on to bigger boats. A large part of the French sailing elite has raced in Minis: 25% of the skippers at the start of the 2018 Route du Rhum, the “Olympics” of singlehanded offshore sailing, raced in the Mini circuit.
 
-### Further Readings
+### Further Readings on the Transat
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mini_Transat_6.50)
+[Classe Mini Website](https://www.classemini.com/?mode=presentation)
 
 
+### Next steps
 
-Syntax highlighted code block
+After applying for a derogation and getting a positive reply, I decided to take a year off to train in Lorient, France and attempt to qualify for the 2019 Mini-Transat. This project is big challenge and being on the starting line would already be an accomplishment.
+The tentative calendar for the upcoming year:
+January/February/March: Training with Lorient Grand Large, attending electronics, meteorology, nutrition and sleep management courses 
+**April 14th**: Plastimo Lorient Mini, 115 nm
+**April 25th**: Pornichet Select, 300 nm
+**May 7th**: Mini en Mai, 500 nm
+**June 6th**: Trophée MAP, 220 nm
+**June 16th**: Mini Fastnet, 600 nm
+**End of June, July**: 1000 nm solo qualification
+**July 24th**: Transgascogne, 600 nm
+
 
 # Header 1
 ## Header 2
