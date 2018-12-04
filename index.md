@@ -26,8 +26,7 @@ The profile of the Mini sailors varies widely. There is a mix of passionate amat
 
 ### Further Readings on the Transat
 
-[Wikipedia](https://en.wikipedia.org/wiki/Mini_Transat_6.50)
-\
+[Wikipedia](https://en.wikipedia.org/wiki/Mini_Transat_6.50)  
 [Classe Mini Website](https://www.classemini.com/?mode=presentation)
 
 
