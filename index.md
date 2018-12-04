@@ -42,7 +42,7 @@ January/February/March: Training with Lorient Grand Large, attending electronics
 **June 6th**: Trophée MAP, 220 nm \
 **June 16th**: Mini Fastnet, 600 nm \
 **End of June, July**: 1000 nm solo qualification \
-**July 24th**: Transgascogne, 600 nm \
+**July 24th**: Transgascogne, 600 nm 
 
 
 
