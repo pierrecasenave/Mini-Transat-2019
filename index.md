@@ -37,7 +37,7 @@ After applying for a derogation and getting a positive reply, I decided to take 
 The tentative calendar for the upcoming year: \
 January/February/March: Training with Lorient Grand Large, attending electronics, meteorology, nutrition and sleep management courses \
 **April 14th**: Plastimo Lorient Mini, 115 nm \
-**April 25th**: Pornichet Select, 300 nm \ 
+**April 25th**: Pornichet Select, 300 nm \
 **May 7th**: Mini en Mai, 500 nm \
 **June 6th**: Trophée MAP, 220 nm \
 **June 16th**: Mini Fastnet, 600 nm \
