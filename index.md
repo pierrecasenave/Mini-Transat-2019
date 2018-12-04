@@ -1,6 +1,6 @@
 ## What I will be up to in 2019
 
-Starting in January, I will be training in France to race in the Mini-Transat! I you want to lear more about the race read through!
+Starting in January, I will be training in France to race in the Mini-Transat! If you want to lear more about the race read through!
 
 
 ### The Race
